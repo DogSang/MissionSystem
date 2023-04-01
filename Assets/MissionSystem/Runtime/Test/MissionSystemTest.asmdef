@@ -1,0 +1,16 @@
+{
+    "name": "MissionSystemTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:22c9333e2e037144f8ced70582ab672a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
